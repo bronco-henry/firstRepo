@@ -1,3 +1,3 @@
 # firstRepo
 for SDET class
-## Nathan
+## Nathan Shaddock
